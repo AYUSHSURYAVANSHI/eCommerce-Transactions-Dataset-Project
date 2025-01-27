@@ -263,5 +263,5 @@ This is an exploratory data analysis project which involves some fundamental con
 > All rights related to the published dataset are reserved with the issuing authorities of the same (Kaggle).
 
 > The project may be used only as a learning resource; no part of the same must be copied for any other usage whatsover.
-#   e C o m m e r c e - T r a n s a c t i o n s - D a t a s e t - P r o j e c t  
+ 
  
